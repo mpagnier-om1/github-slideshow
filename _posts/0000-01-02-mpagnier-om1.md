@@ -1,4 +1,5 @@
 ---
 layout: my_slide
+title: my_slide
 ---
-here
+# to be or not to be
